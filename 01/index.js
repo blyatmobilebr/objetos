@@ -16,5 +16,5 @@ const usuario = {
     telefone: "91111-1111",
     data_nascimento: "11/11/00",
     endereco
-}
+};
 
